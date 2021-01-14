@@ -20,6 +20,6 @@ Original Post: [Testing Stories e-book](https://fishoutthebox.medium.com/testing
 
 ## Submissions
 
-Deadline for submissions is 31st March 2021.
+Deadline for submissions is `31st March 2021`.
 
 Any questions can be raised as an issue in this project.
