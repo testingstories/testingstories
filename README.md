@@ -18,4 +18,8 @@ Original Post: [Testing Stories e-book](https://fishoutthebox.medium.com/testing
 2. Create a directory with your name E.g. `melissafisher`
 3. Create a file under your named directory `melissafisher/MELISSA_FISHER.md`
 
+## Submissions
+
+Deadline for submissions is 31st March 2021.
+
 Any questions can be raised as an issue in this project.
