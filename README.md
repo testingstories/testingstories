@@ -2,13 +2,13 @@
 
 ## Purpose
 
-An project to create an e-book of testing stories for the charity MIND.
+A collaborative project to create an e-book of testing stories for the charity MIND.
 
 Original Post: [Testing Stories e-book](https://fishoutthebox.medium.com/testing-stories-e-book-d9670416e66)
 
 ## Guidance
 
-- The theme of story is testing
+- The theme is testing
 - One story per contributor
 - Roughly a page or two (like a blog post)
 
