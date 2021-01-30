@@ -14,7 +14,9 @@ Original Post: [Testing Stories e-book](https://fishoutthebox.medium.com/testing
 
 ## How to contribute
 
-You can contriute by using this project OR using a word document.  Whatever you are comfortale with!
+Add your story to this GitHub or send your submission in via a word document to melissajanefisher@gmail.com.  Whatever you are comfortable with!
+
+Steps to use GitHub (reach out if you need help).
 
 1. Clone the project and create a new branch with `git checkout -b melissafisher`
 2. Create a directory with your name E.g. `melissafisher`
