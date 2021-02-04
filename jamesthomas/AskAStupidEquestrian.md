@@ -28,7 +28,9 @@ Silence for a moment. The horse raised its eyebrows slightly. The barman pulled 
 
 "So the bit where all three intersect, that's where the novice might imagine the tester does his or her work: we needed it, we planned to do it, we built it, and now we just check it before we ship it."
 
-![Highlight the intersection of Specified, Needed, and Implemented](sweet.png "Specified, Needed, and Implemented")
+<p align=center>
+<img width="75%" src="sweet.png" alt="Highlight the intersection of Specified, Needed, and Implemented"> 
+</p>
 
 Glancing around, the barman saw there was no-one else in the place, so he was saddled with the horse, hopefully not furlong.
 
@@ -36,17 +38,23 @@ Barely out of the gate yet, the horse continued enthusiastically. "Checking the 
 
 It gestured towards the mats again, “that’s this part.”
 
-![Highlight the Specified but Unimplemented area](unimplemented_spec.png "Specified but Unimplemented")
+<p align=center>
+<img width="75%" src="unimplemented_spec.png" alt="Highlight the Specified but Unimplemented area"> 
+</p>
 
 "What about finding things that we _needed_ to do but didn't do, eh? We can't find all of those by checking the spec and you can bet your bottom dollar there'll be some." It waved a hoof towards the first mat and continued on "some of them we might not even _know_ we needed to do."
 
-![Highlight the Needed but Unimplemented area](unfulfilled_need.png "Needed but Unimplemented")
+<p align=center>
+<img width="75%" src="unfulfilled_need.png" alt="Highlight the Needed but Unimplemented area"> 
+</p>
 
 "Hmmnmmnn?" the barman said distractedly, like a blinkered project manager waiting for a break in the conversation to request another feature. 
 
 But the horse had got the bit between its teeth now, "and then there's the things that we've implemented that no-one asked for." Nostrils flared, it stabbed the third mat. 
 
-![Highlight the Implemented but not Specified area](unexpected.png "Implemented but not Specified")
+<p align=center>
+<img width="75%" src="unexpected.png" alt="Highlight the Implemented but not Specified area"> 
+</p>
 
 "Sometimes we’re onto a winner — a bit of extra useful functionality — but we might also have inadvertently changed existing behaviour somewhere else in the product ...” 
 
@@ -54,7 +62,9 @@ The barman was having a mare. Still no other punters.
 
 "... and then we might have implemented stuff that wasn’t needed; customers don't want it, or it interacts badly with something else, or ..." and it dropped its head as it gestured in the general direction of the third mat again, feeling foalish at the tears in its eyes, "... where's the manual for finding that, eh?"
 
-![Highlight the Implemented but not Needed area](undesired.png "Implemented but not Needed")
+<p align=center>
+<img width="75%" src="undesired.png" alt="Highlight the Implemented but not Needed area"> 
+</p>
 
 "Time to rein you in, I think" said the barman, walking round to the horse and (infeasibly, but no more so than a horse speaking eloquently about testing) putting his arm round its shoulders.
 
