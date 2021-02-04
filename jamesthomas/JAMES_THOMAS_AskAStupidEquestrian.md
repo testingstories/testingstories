@@ -1,7 +1,5 @@
 # Ask a Stupid Equestrian
 
-James Thomas
-
 So this horse trotted into a pub. "Why the long face?" asked the chap behind the bar. The horse said "I've been testing software all day."
 
 "Testing software," the barman chortled, "is _easy_, you just need to make sure it does what it’s supposed to.”
