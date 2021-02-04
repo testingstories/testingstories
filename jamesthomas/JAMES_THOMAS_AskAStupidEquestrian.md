@@ -1,10 +1,12 @@
 # Ask a Stupid Equestrian
 
-So this horse trotted into a pub. "Why the long face?" asked the chap behind the bar. The horse said "I've been testing software all day."
+So this horse trotted into a pub. "Why the long face?" asked the chap behind the bar. 
+
+"I've been testing software all day," replied the horse.
 
 "Testing software," the barman chortled, "is _easy_, you just need to make sure it does what it’s supposed to.”
 
-The horse bridled at that and picked up three beer mats, while whinnying "you can think of it this way: there's the things we need to do" and it jabbed a fetlock at the first mat, "the things we specified we would do," a point at the second, "and what we implemented," with a final poke at the third mat.
+The horse bridled at that and picked up three beer mats while whinnying "you can think of it this way: there's the things we need to do" and it jabbed a fetlock at the first mat, "the things we specified we would do," a point at the second, "and what we implemented," with a final poke at the third mat.
 
 <p align="center" width="100%">
     <img width="30%" src="mackeson.jpg" alt="Mackeson beer mat"> 
@@ -30,9 +32,9 @@ Silence for a moment. The horse raised its eyebrows slightly. The barman pulled 
 <img width="75%" src="sweet.png" alt="Highlight the intersection of Specified, Needed, and Implemented"> 
 </p>
 
-Glancing around, the barman saw there was no-one else in the place, so he was saddled with the horse, hopefully not furlong.
+Glancing around, the barman saw there was no-one else in the place so he was saddled with the horse, but hopefully not furlong.
 
-Barely out of the gate yet, the horse continued enthusiastically. "Checking the software against the spec could confirm some of that but it’d find mostly things that we'd said we wanted but hadn't done or had done but done wrong." 
+Barely out of the gate yet, the horse continued enthusiastically. "Checking the software against the spec could confirm some of that but it’d find mostly things that we'd said we wanted but hadn't done." 
 
 It gestured towards the mats again, “that’s this part.”
 
