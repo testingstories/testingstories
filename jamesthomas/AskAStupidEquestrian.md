@@ -22,23 +22,6 @@ Conversion notes:
 
 ----->
 
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 8.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
 # Ask a Stupid Equestrian
 
 James Thomas
@@ -49,25 +32,11 @@ So this horse trotted into a pub. "Why the long face?" asked the chap behind the
 
 The horse bridled at that and picked up three beer mats, while whinnying "you can think of it this way: there's the things we need to do" and it jabbed a fetlock at the first mat, "the things we specified we would do," a point at the second, "and what we implemented," with a final poke at the third mat.
 
+![Mackeson beer mat](mackeson.jpg "Mackeson beer mat")
 
+![Mainzer beer mat](mainzer.jpg "Mainzer beer mat")
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.jpg "image_tooltip")
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.jpg "image_tooltip")
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.jpg "image_tooltip")
-
+![Heineken beer mat](heineken.jpg "Heineken beer mat")
 
 "Hmm ... drink?"
 
@@ -83,13 +52,7 @@ Silence for a moment. The horse raised its eyebrows slightly. The barman pulled 
 
 "So the bit where all three intersect, that's where the novice might imagine the tester does his or her work: we needed it, we planned to do it, we built it, and now we just check it before we ship it."
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
+![Highlight the intersection of Specified, Needed, and Implemented](sweet.png "Specified, Needed, and Implemented")
 
 Glancing around, the barman saw there was no-one else in the place, so he was saddled with the horse, hopefully not furlong.
 
@@ -97,36 +60,17 @@ Barely out of the gate yet, the horse continued enthusiastically. "Checking the 
 
 It gestured towards the mats again, “that’s this part.”
 
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
-
+![Highlight the Specified but Unimplemented area](unimplemented_spec.png "Specified but Unimplemented")
 
 "What about finding things that we _needed_ to do but didn't do, eh? We can't find all of those by checking the spec and you can bet your bottom dollar there'll be some." It waved a hoof towards the first mat and continued on "some of them we might not even _know_ we needed to do."
 
-
-    
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
-
+![Highlight the Needed but Unimplemented area](unfulfilled_need.png "Needed but Unimplemented")
 
 "Hmmnmmnn?" the barman said distractedly, like a blinkered project manager waiting for a break in the conversation to request another feature. 
 
 But the horse had got the bit between its teeth now, "and then there's the things that we've implemented that no-one asked for." Nostrils flared, it stabbed the third mat. 
 
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
-
+![Highlight the Implemented but not Specified area](unexpected.png "Implemented but not Specified")
 
 "Sometimes we’re onto a winner — a bit of extra useful functionality — but we might also have inadvertently changed existing behaviour somewhere else in the product ...” 
 
@@ -134,14 +78,7 @@ The barman was having a mare. Still no other punters.
 
 "... and then we might have implemented stuff that wasn’t needed; customers don't want it, or it interacts badly with something else, or ..." and it dropped its head as it gestured in the general direction of the third mat again, feeling foalish at the tears in its eyes, "... where's the manual for finding that, eh?"
 
-
-    
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.png "image_tooltip")
-
+![Highlight the Implemented but not Needed area](undesired.png "Implemented but not Needed")
 
 "Time to rein you in, I think" said the barman, walking round to the horse and (infeasibly, but no more so than a horse speaking eloquently about testing) putting his arm round its shoulders.
 
