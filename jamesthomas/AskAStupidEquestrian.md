@@ -32,11 +32,11 @@ So this horse trotted into a pub. "Why the long face?" asked the chap behind the
 
 The horse bridled at that and picked up three beer mats, while whinnying "you can think of it this way: there's the things we need to do" and it jabbed a fetlock at the first mat, "the things we specified we would do," a point at the second, "and what we implemented," with a final poke at the third mat.
 
-![Mackeson beer mat](mackeson.jpg "Mackeson beer mat")
-
-![Mainzer beer mat](mainzer.jpg "Mainzer beer mat")
-
-![Heineken beer mat](heineken.jpg "Heineken beer mat")
+<p align="center" width="100%">
+    <img width="30%" src="mackeson.jpg" alt="Mackeson beer mat"> 
+    <img width="30%" src="mainzer.jpg" alt="Mainzer beer mat"> 
+    <img width="30%" src="heineken.jpg" alt="Heineken beer mat"> 
+</p>  
 
 "Hmm ... drink?"
 
