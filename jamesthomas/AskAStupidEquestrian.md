@@ -74,4 +74,5 @@ The barman was having a mare. Still no other punters.
 
 "'Neiggghhht."
 
-_An earlier version of this story appeared in [Hiccupps](https://qahiccupps.blogspot.com/2013/08/ask-stupid-equestrian.html). It is based on Iain McCowatt's excellent article [Spec Checking and Bug Blindness](http://web.archive.org/web/20140729150250/http://exploringuncertainty.com/blog/archives/253) (linked here from the [Wayback Machine](http://web.archive.org/)) with his kind permission. _
+## Credits
+An earlier version of this story appeared in [Hiccupps](https://qahiccupps.blogspot.com/2013/08/ask-stupid-equestrian.html). It is based on Iain McCowatt's excellent article [Spec Checking and Bug Blindness](http://web.archive.org/web/20140729150250/http://exploringuncertainty.com/blog/archives/253) (linked here from the [Wayback Machine](http://web.archive.org/)) with his kind permission.
