@@ -1,6 +1,8 @@
 # Ask a Stupid Equestrian
 
-So this horse trotted into a pub. "Why the long face?" asked the chap behind the bar. 
+So this horse trotted into a pub. 
+
+"Why the long face?" asked the chap behind the bar. 
 
 "I've been testing software all day," replied the horse.
 
