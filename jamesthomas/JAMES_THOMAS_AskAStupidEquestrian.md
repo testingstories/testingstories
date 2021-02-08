@@ -26,7 +26,7 @@ The horse bridled at that and picked up three beer mats while whinnying "you can
 
 Silence for a moment. The horse raised its eyebrows slightly. The barman pulled his own long face and the horse turned back to the mats, arranging them into an overlapping trefoil.
 
-"So the bit where all three intersect, that's where the novice might imagine the tester does his or her work: we needed it, we planned to do it, we built it, and now we just check it before we ship it."
+"So the bit where all three intersect, that's where the novice might imagine the tester does their work: we needed it, we planned to do it, we built it, and now we just check it before we ship it."
 
 <p align=center>
 <img width="75%" src="sweet.png" alt="Highlight the intersection of Specified, Needed, and Implemented"> 
