@@ -83,5 +83,6 @@ An earlier version of this story appeared in [Hiccupps](https://qahiccupps.blogs
 
 James is one of the founders of [Linguamatics](https://www.linguamatics.com), the world leader in innovative natural language-based text mining. Over the years he had many roles in the company, building teams from scratch in development, tech support, and testing. Testing is where he feels at home.
 
-James is Vice President of the Association for Software Testing, runs the Cambridge Exploratory Workshop on Testing, wrote the [Peers Exchanging Ideas](https://github.com/associationforsoftwaretesting/peer-conferences/blob/master/AST_Peer_Conference_Guide.md) guide to peer conferences, and won the EuroSTAR Best Paper prize in 2015 for [Your Testing is a Joke](https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2016/04/eBook-Download-Your-Testing-is-a-Joke.pdf).
-You can find James on Twitter as [@qahiccupps](https://twitter.com/qahiccupps) and read his blog at [Hiccupps](https://qahiccupps.blogspot.com)
+In his spare time, James volunteers at [the Association for Software Testing](https://associationforsoftwaretesting.org/), runs the Cambridge Exploratory Workshop on Testing, wrote the [Peers Exchanging Ideas](https://github.com/associationforsoftwaretesting/peer-conferences/blob/master/AST_Peer_Conference_Guide.md) guide to peer conferences, and won the EuroSTAR Best Paper prize in 2015 for [Your Testing is a Joke](https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2016/04/eBook-Download-Your-Testing-is-a-Joke.pdf).
+
+You can find him on Twitter as [@qahiccupps](https://twitter.com/qahiccupps) and read his blog at [Hiccupps](https://qahiccupps.blogspot.com)
