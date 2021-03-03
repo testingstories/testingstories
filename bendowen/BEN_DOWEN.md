@@ -13,7 +13,7 @@ At first I thought I would simply find all the winners myself. Simply look on Tw
 
 A few days in, and I was thinking maybe this will last a week. But then something amazing happened. The awesome power of the Software Testing Community awoke. People started to nominate people to win Tester of the Day.
 
-The community were liking and following the Winners, congratulating them, celebrating them. Some of the early supporters like Chris Armstrong, Arleen Andrews, Marie Drake and Marie Drake went on to nominate multiple winners.
+The community were liking and following the Winners, congratulating them, celebrating them. Some of the early supporters like Chris Armstrong, Arleen Andrews and Marie Drake went on to nominate multiple winners.
 
 Momentum started to build, and I felt an obligation, and some considerable excitement, to keep going. So I built a site, while on a Summer Holiday at my Mum's Seaside Chalet, a precious thing in 2020.
 
@@ -23,19 +23,28 @@ At the time of writing, more Tester of The Day has been awarded more then 150 ti
 
 I am very humbled by the joy and excitement many winners have expressed. Here are just a few glorious examples:
 
-Share some examples here!
+Brittany Stewart - [@Brittish_Beauty](https://twitter.com/Brittish_Beauty)
+> Woohoo! I'm extremely honored to be nominated as #TesterOfTheDay! It's a great feeling to know that so many persons have been benefiting from the using this approach. I'm motivated to explore and share more ways of improving efficiency using mind maps. Thank you so much!
+
+Damian Synadinos - [@dsynadinos](https://twitter.com/dsynadinos):
+> Wow! What a pleasant way to start my day!!
+> Thanks to @TestPappy for the nomination & to @FullSnackTester for the recognition!
+> I truly believe that effective communication is essential for well-performing testing teams, and so much more than that...
+> Thank You!
+
+## A very personal winners story
+
+Antonella Scaravilli also known as @RookieSketches on Twitter shared her personal story of being a multi-time winner of #TesterOfTheDay.
+
+> The first time I was nominated I didn't know what it was and I didn't feel like I deserved it at all. However, the second time was quite a surprise and the fact that I had worked so hard on my notes and that someone gave me a recognition for my sketchnoting meant the world to me...and perhaps that's the lesson I learned, that sometimes the contribution to the industry isn't tangible like a book or a course, but that our presence is important because we're all different and we all bring something to the table.
 
 ## Hall of Fame
 
 All winners of Tester of The day are inducted into the Testers Hall of Fame.
 
-This years winners can be found on:
+This years winners can be found on: [Tester of The Day: Hall of Fame](https://testeroftheday.com)
 
-[Tester of The Day: Hall of Fame](https://testeroftheday.fullsnacktester.com)
-
-Along with the winners from 2020, who can be found at:
-
-[Tester of The Day: Hall of Fame 2020](https://totd-2020.fullsnacktester.com/)
+Along with the winners from 2020, who can be found at: [Tester of The Day: Hall of Fame 2020](https://totd-2020.fullsnacktester.com)
 
 ## Supported by volunteers
 
@@ -45,35 +54,12 @@ Of those amazing people who have supported me, a small group of volunteers have 
 
 ### Current Volunteers
 
-#### Danny Dainton
-
-Twitter: [@DannyDainton](https://twitter.com/DannyDainton)
-
-LinkedIn: <https://www.linkedin.com/in/dannydainton/>
-
-#### Dan Billing
-
-Twitter: [@TheTestDoctor](https://twitter.com/TheTestDoctor)
-
-LinkedIn: <https://www.linkedin.com/in/danielbilling/>
-
-#### Joe Paul
-
-Twitter: [@QAJOEPAUL](https://twitter.com/QAJOEPAUL)
-
-#### Michael
-
-Twitter: [@LangCheshire](https://twitter.com/LangCheshire)
-
-#### Shey Crompton
-
-Twitter: [@SheyMouse](https://twitter.com/SheyMouse)
-
-LinkedIn: <https://www.linkedin.com/in/sheycrompton/>
-
-#### Simon Prior
-
-Twitter: [@siprior](https://twitter.com/siprior)
+* Danny Dainton - [@DannyDainton](https://twitter.com/DannyDainton)
+* Dan Billing - [@TheTestDoctor](https://twitter.com/TheTestDoctor)
+* Michael - [@LangCheshire](https://twitter.com/LangCheshire)
+* Shey Crompton - [@SheyMouse](https://twitter.com/SheyMouse)
+* Simon Prior - [@siprior](https://twitter.com/siprior)
+* Viv Richards - [@11vlr](https://twitter.com/11vlr)
 
 ## How to help
 
@@ -83,24 +69,6 @@ There is plenty of room in the Hall of Fame, and with a new winner to pick every
 
 Nominations can be made for anyone who has made a contribution to the Testing Community, big or small and they need not have Tester or QA in their job title.
 
-Send your nominations to me via DM on Twitter or LinkedIn, or to any of our excellent volunteers listed above!
+Simply fill out the form: <https://testeroftheday.com/forms/nominate>
 
-You simply need to provide the following details of the nominee:
-
-* Name
-* Very brief description of their contribution to the community
-* Twitter (optional)
-* LinkedIn (optional)
-* Links to a blog or personal project (optional)
-
-Check out the past winners on the Hall of Fame for inspiration:
-
-[Tester of The Day: Hall of Fame](https://testeroftheday.fullsnacktester.com)
-
-### Volunteer and become a regular contributor
-
-Want to help more? We are always looking for more volunteers to provide regular support.
-
-This involves regularly finding nominations and helping format them ready to go on the site and social media.
-
-If you also have other skills that could help, such as Graphics Design or Web development, get in touch!
+Check out the past winners on the Hall of Fame for inspiration: [Tester of The Day: Hall of Fame](https://testeroftheday.com)
