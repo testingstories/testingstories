@@ -1,17 +1,13 @@
 
 When is a hero not a hero?
 
-In a previous role I was tasked with creating the Test Automation for a number of different web services, however when I joined the team I quickly discovered that they were lacking the capability to deliver customer value rapidly, securely, or with predictability. All this was compounded by the Scrum ceremonies not being orchestrated and there was no Scrum Master. The technology and tooling side was no better.
+In a previous role I was tasked with creating the Test Automation for a number of different web services, however when I joined the team I quickly discovered that they were lacking the capability to deliver customer value rapidly, securely, or with predictability. All this was compounded by the Scrum ceremonies not being orchestrated and there was no Scrum Master. The technology and tooling side was no better. To present a balanced view my new team were delivering changes/new features into production...just very slowly.
 
-After being convinced by the recruitment team and interview process that I would be working with an experienced and high performant group of people the above scenario came as a complete shock, whilst there might be a high performing group of people somewhere in the company...I guess I drew the short straw.
+I could easily have walked away from this team and the role but I choose to stay mainly because I love a challenge, no matter how impossible it seems at first.
 
-As I saw it I had 2 choices...(1) quit and find a new role or (2) stick around and try to turn the team around.
+As I got to know the people on the team, over the first several months, I put together a list of 'things' that were either missing or just seemed wrong. And so it was that before the end of my probation period I presented my manager with a three pronged approach that would allow us to deliver features transparently, at pace, and with reliability - all within 12 months.
 
-It's fair to say I chose option 2 otherwise you wouldn't be reading all about my experiences of working with a hero.
-
-As I got to know the people on the team, over the first several months, I put together a list of 'things' that were either missing or just seemed wrong. And so it was that before the end of my probation period I presented my manager with a three pronged approach that would allow us to deliver features transparently, at pace, and with reliability - all within 12 months. A critical consideration to my approach was (1) My Product Owner fully supported the approach and (2) For the first 6 months the team would deliver minimal features into production.
-
-My manager was skeptical of the deadline - not because of my capability (because I'd done this exact thing in a previous role) but because of the people within the team.
+My manager was skeptical of the deadline - not because of my capability (because I'd done this exact thing in a previous role) but because of the people within the team. However I got the buy-in because according to the service roadmap the future changes were going to be significant and the business were well aware of the shortcomings of the team.
 
 So began my journey of unofficial Quality Coach.
 
@@ -22,6 +18,8 @@ The second part of my approach focused on integrating Test Automation across the
 The third part of my approach focused on the technologies and tooling for the team and I had assumed the developers would be excited at using shiny new tools, such as: Jenkins, SonarQube, Continuous Delivery, the AWS platform, and so on. I wasn't wrong in my assumption they couldn't get enough, they took all the training courses, all of them completed at least 2 levels of the AWS certification path. All that was missing was how they could create and make use of a Jenkins pipeline and that's where I could step in to help both with the design and initial implementation.
 
 Over the next 6 months I presented multiple workshops covering topics such as: Agile 101, What is Scrum anyway, delivering small pieces of value. Additionally I introduced techniques such as scenario example mapping and story pointing, and so on. I also did a lot of work on breaking down the "It's not my job to write the tests" mindset that was firmly embedded in the team, to help achieve this I introduced the team to the notion of working through the User story and creating Acceptance Criteria using the Gherkin format, we practiced this on a different basis. At no point during these exercies/sessions did I mention the words test coverage, cucumber, or even exploratory.
+
+Initially I was met with a 'wall of silence' during the workshops, and this did frustrate me, however litle by little people started to engage and once they did it became easier for all of us to have open and honest discussions. As a team we talked about this 'wall of silence' and it was because the team didn't know or trust me, which is perfectly understable.
 
 We get back on track and start to deliver features/changes into production every 2 weeks - at this point we're not ready to deliver customer focused value, but I'm not bothered I need a rest!
 
@@ -43,4 +41,4 @@ This was not how I wanted to work, I was not enjoying how the team was falling b
 
 As we made the big push, over the weekend, into production and our components came online...nothing worked! With all the rushing and pushing it seems we had missed several integration points across the components...Anyway it took us about a week of head scratching, rework, and long hours going through the server logs to isolate the missing items.
 
-It wasn't too long after that I resigned.
+Hero's come in many different shapes and sizes - if you're job title states Hero then that's great because you'll get all the fire-fighting activites, you'll be the first person who gets called out at 4am...however if Hero isn't in your job title then you'll be at best a hinderance and at worst destructive to a Scrum delivery team.
