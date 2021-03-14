@@ -2,16 +2,13 @@
 
 ## Origin story
 
-The story starts, as with all good things, with a joke. Dan Ashby had started a rant on Twitter about Paid-for awards, around the end of July 2020.
-Lot's of people joined in and thread and the jokes rumbled on for a few days. Many of us making more outranges sounding awards.
+The story starts, as with all good things, with a joke. Dan Ashby had started a rant on Twitter about Paid-for awards, around the end of July 2020. You can checkout [the thread](https://twitter.com/DanAshby04/status/1288763581333413888) for yourself.
 
-You can checkout the thread for yourself: <https://twitter.com/DanAshby04/status/1288763581333413888>
+Lot's of people joined in and inspired by the humour, I thought, "what if"? What if I made a daily award? What if it was a free award?
 
-Inspired by the humour of this all, I thought, what if? What if I made a daily award, a free award?
+Initially I thought I would choose all the winners myself. Simply look on Twitter, find someone saying something cool about Software Testing and then boom, award them Tester of The Day.
 
-At first I thought I would simply find all the winners myself. Simply look on Twitter, find someone saying something cool about Software Testing and then boom, award them Tester of The Day.
-
-A few days in, and I was thinking maybe this will last a week. But then something amazing happened. The awesome power of the Software Testing Community awoke. People started to nominate people to win Tester of the Day.
+A few days in I was thinking maybe this will last a week, a few people will smile my journey will end. Then something amazing happened, the awesome power of the Software Testing Community awoke. People started to nominating others to be the Tester of the Day.
 
 The community were liking and following the Winners, congratulating them, celebrating them. Some of the early supporters like Chris Armstrong, Arleen Andrews and Marie Drake went on to nominate multiple winners.
 
@@ -19,9 +16,11 @@ Momentum started to build, and I felt an obligation, and some considerable excit
 
 ## Celebrating the Community
 
-At the time of writing, more Tester of The Day has been awarded more then 150 times since it was started on the 17th of August 2020. With only a handful of people winning more then once.
+At the time of writing, "Tester of The Day" has been awarded more then 150 times, since it was it started on the 17th of August 2020. With a handful of people winning more then once.
 
-I am very humbled by the joy and excitement many winners have expressed. Here are just a few glorious examples:
+### Winners Testimonials
+
+I am very humbled by the joy and excitement many winners have expressed.
 
 Brittany Stewart - [@Brittish_Beauty](https://twitter.com/Brittish_Beauty)
 > Woohoo! I'm extremely honored to be nominated as #TesterOfTheDay! It's a great feeling to know that so many persons have been benefiting from the using this approach. I'm motivated to explore and share more ways of improving efficiency using mind maps. Thank you so much!
@@ -31,8 +30,6 @@ Damian Synadinos - [@dsynadinos](https://twitter.com/dsynadinos):
 > Thanks to @TestPappy for the nomination & to @FullSnackTester for the recognition!
 > I truly believe that effective communication is essential for well-performing testing teams, and so much more than that...
 > Thank You!
-
-## A very personal winners story
 
 Antonella Scaravilli also known as @RookieSketches on Twitter shared her personal story of being a multi-time winner of #TesterOfTheDay.
 
@@ -52,6 +49,8 @@ I couldn't possibly of come this far continuing to find daily winners without a 
 
 Of those amazing people who have supported me, a small group of volunteers have gone above and beyond in their regular and continued support.
 
+The volunteers have helped collect nominations, choose winners and develop the website. They have provided invaluable moral support to keep up the rapid daily cadence.
+
 ### Current Volunteers
 
 * Danny Dainton - [@DannyDainton](https://twitter.com/DannyDainton)
@@ -69,6 +68,6 @@ There is plenty of room in the Hall of Fame, and with a new winner to pick every
 
 Nominations can be made for anyone who has made a contribution to the Testing Community, big or small and they need not have Tester or QA in their job title.
 
-Simply fill out the form: <https://testeroftheday.com/forms/nominate>
+Simply fill out the: [Tester of The Day Nomination Form](https://testeroftheday.com/forms/nominate)
 
 Check out the past winners on the Hall of Fame for inspiration: [Tester of The Day: Hall of Fame](https://testeroftheday.com)
