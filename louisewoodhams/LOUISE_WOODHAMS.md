@@ -12,12 +12,12 @@ They were middle men to me. The API I was testing was primarily built to sit bet
 
 This is how I managed to test this API without really understanding what it was. As a tester context vital and if I can find a way to relate the unknown scary thing to something I've tested or 
 experienced before it becomes more manageable. I am usually terrible at asking questions but for this project I asked for context and it really helped. I kept drawing on the system I already knew and 
-investigated the customer configuration that would be used with this API to build true to life testing scenarios. This actually found some decent bugs and some holes in the UNIT testing and original setup.
+investigated the customer configuration that would be used with this API to build true to life testing scenarios. This actually helped me find some decent bugs and some holes in the UNIT testing and original setup.
 
 
 ## Swagger Training Wheels 
 
-The development team had thankfully added a swagger to the API I was interacting with. I love a Swagger. It is a great place to start with API testing. If it is built right (I'll go into this more later) you can gain an understanding pretty quick, consider a bunch of test cases in advance and actually import it into a postman collection which with some tweaks is usable from the get go. 
+The development team had thankfully added a Swagger to the API I was interacting with. I love a Swagger. It is a great place to start with API testing. If it is built right (I'll go into this more later) you can gain an understanding pretty quick, consider a bunch of test cases in advance and actually import it into a postman collection which with some tweaks is usable from the get go. 
 Swaggers are colourful. I think these colours helped me learn REST APIs quicker. Swagger supplies you with example requests with the JSON all right there as well as the expected responses.  
 Swagger flag up fields that are mandatory. Header fields are separate so you can be aware of differences and adapt these into your test plans. you could eventually create postman test collections. 
 Swaggers can handle different types of authentication. They can deal with tokens etc for different customers even within the same Swagger page, if set up correctly. A Swagger is fantastic training wheels for you to find your feet testing an API and once you feel comfortable you can start poking holes in it.  
