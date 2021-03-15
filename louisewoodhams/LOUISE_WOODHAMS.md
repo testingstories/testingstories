@@ -1,31 +1,30 @@
-# Swagger Like Jagger - An REST API Testing Story By Louise Woodhams
+# Swagger Like Jagger - A REST API Testing Story By Louise Woodhams
 
-Hi, I'm Louise. I'm a tester of just over 5 years and in my time I've encountered a couple of REST APIs (and some SOAP ones) and I really enjoy this kind of testing. I wanted to share the experiences 
+Hi, I'm Louise. I'm a tester of just over 5 years. In my time I've encountered a couple of REST APIs (and some SOAP ones). I really enjoy this kind of testing. I wanted to share the experiences 
 I've had and possibly some tips that might help you.
 
 ## APIS - Those Are Things 
 
-When I started testing APIs I had no idea what they were and for a fair chunk of that time I wouldn't have been able to give you a decent definition.  
-They were a middle men to me and the API I was primarily testing was built to sit between a system I knew very well and various external client systems. By client here I mean customer who was buying products 
-from the company I worked for. This particular API ended up supporting lots of different types of external client setups, requirements and acted in a bunch of ways like a translator 
-so I tried to translate it into something I understood.  
+When I started testing APIs I had no idea what they were and for a fair chunk of that time I wouldn't have been able to give you a decent definition. 
+They were middle men to me. The API I was testing was primarily built to sit between a system I knew very well and various external customer systems. This API ended up supporting lots of different types of external customer setups, requirements and acted in a bunch of ways like a translator between them so I tried to translate it into something I understood.
 
 ## Context Is King 
 
 This is how I managed to test this API without really understanding what it was. As a tester context vital and if I can find a way to relate the unknown scary thing to something I've tested or 
 experienced before it becomes more manageable. I am usually terrible at asking questions but for this project I asked for context and it really helped. I kept drawing on the system I already knew and 
-investigated the client configuration that would be used with this API to build true to life testing scenarios. This actually found some decent bugs and some holes in the UNIT testing and original setup.
+investigated the customer configuration that would be used with this API to build true to life testing scenarios. This actually found some decent bugs and some holes in the UNIT testing and original setup.
 
 
 ## Swagger Training Wheels 
 
-The development team had thankfully added a swagger to the API I was interacting with. I love a Swagger. It is a great place to start with API testing. If it is built right (ill go into this more later) you can gain an understanding pretty quick, consider a bunch of test cases in advance and actually import it into a postman collection which with some tweaks is usable from the get go. 
-Swaggers are colourful. I think these colours helped me learn and retain REST APIs quicker. Swagger supplies you with example requests with the JSON all right there as well as the expected responses.  
-Swagger flag up fields that are mandatory and header fields are separate so you can be aware of differences and adapt these into your test plans and  eventually your postman test collections. Swaggers can handle different types of authentication as well and again if set up correctly deal with tokens etc for different clients even within the same Swagger page. A Swagger is fantastic training wheels for you to find your feet testing an API and once you feel comfortable you can start poking holes in it.  
+The development team had thankfully added a swagger to the API I was interacting with. I love a Swagger. It is a great place to start with API testing. If it is built right (I'll go into this more later) you can gain an understanding pretty quick, consider a bunch of test cases in advance and actually import it into a postman collection which with some tweaks is usable from the get go. 
+Swaggers are colourful. I think these colours helped me learn REST APIs quicker. Swagger supplies you with example requests with the JSON all right there as well as the expected responses.  
+Swagger flag up fields that are mandatory. Header fields are separate so you can be aware of differences and adapt these into your test plans. you could eventually create postman test collections. 
+Swaggers can handle different types of authentication. They can deal with tokens etc for different customers even within the same Swagger page, if set up correctly. A Swagger is fantastic training wheels for you to find your feet testing an API and once you feel comfortable you can start poking holes in it.  
 
 ## The Swagger Is Not Gospel 
 
-As useful as the Swagger is like anything else you test can't always be trusted and you need to remember that. I recommend if it has authentication trying every call and checking for 401s : Unauthorized, once authorized try that again and check how mandatory those fields are, check the 200s 204s are coming back as expected and they handle duplicate requests for things like account creations in PUTs or POSTing the same details twice. Each Swagger should have details of the responses that you are expecting to get when you send on a request. Remember this list was built by whomever created the Swagger is an is not necessarily complete.
+As useful as the Swagger is like anything else you test can't always be trusted. You need to remember that. I recommend if it has authentication trying every call and checking for 401s : Unauthorized. Once authorized try that again. Check how mandatory those fields are. Check the 200s 204s are coming back as expected. They should handle duplicate requests (for things like account creations) in PUTs or POSTs. Each Swagger should have details of the responses that you are expecting to get when you send on a request. This list was built by whomever created the Swagger is an is not necessarily complete.
 
 
 ## JSON And His Bracketnauts 
