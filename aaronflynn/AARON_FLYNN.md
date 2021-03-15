@@ -55,7 +55,7 @@ In truth I'm not 100% sure. I have a job title which says I should do some stuff
 A job title shouldn't prevent you from doing a good job. Whatever that actually looks like. I learned that I want to add value and have real impact. How to do that isn't in a job description. It's up to us to think and work that out for ourselves. It's a bit cliché but "make the job your own". 
 
 ## Author Bio
-Aaron is working with delivery teams at HM Land Registry in Plymouth, UK, where he’s lived the last 5 years. Originally from Dublin, he’s worked across the UK and Ireland. He’s passionate about communities, accessibility, and technical testing to name a few things. 
+Aaron is working with delivery teams at HM Land Registry(HMLR) in Plymouth, UK, where he’s lived the last 5 years. Originally from Dublin, he’s worked across the UK and Ireland. He’s passionate about communities, accessibility, and technical testing to name a few things. 
 
 He’s a community lead for the HMLR test community, works with other communities at HMLR, spoken at cross government meetups, and is active on [Ministry of Testing]( https://club.ministryoftesting.com). He loves collaborating with people to share ideas and experiences. 
 
