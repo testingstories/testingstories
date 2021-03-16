@@ -74,9 +74,9 @@ I hope some of the things I have said have been useful or at least given you a s
 
 ## 🦇Author Bio🦇
 I'm Louise Woodhams, I've been a tester of just over 5 years. I adore API testing and I've most recently been learning Cypress and JavaScript. I love a problem, puzzles and a mystery to solve. I spend a bunch of my off time playing puzzle games, boardgames or inhaling as many books as possible. 
-You can find me lurking on Twitter: https://twitter.com/meowy24
-Raging on my blog: https://anelaborationofcarbon.wordpress.com/
-Or LARPing on LinkedIn :https://www.linkedin.com/in/louisemwoodhams
+You can find me lurking on Twitter: https://twitter.com/meowy24 <br>
+Raging on my blog: https://anelaborationofcarbon.wordpress.com/ <br>
+Or LARPing on LinkedIn :https://www.linkedin.com/in/louisemwoodhams <br>
 
 
 
