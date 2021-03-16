@@ -73,7 +73,7 @@ I feel unlucky as I have had to deal with SOAP a few times in my career. It is R
 I hope some of the things I have said have been useful or at least given you a solid place to start with your REST API testing journey.  You now know a little more at least and most of all feel more prepared to tackle an API if a wild one appears and casts confusion, it won't be super effective. I am by no means an expert but all experience, good or bad helps shape us and any knowledge we can pass on can be useful one way or another. 
 
 ## 🦇Author Bio🦇
-I'm Louise Woodhams, I've been a tester of just over 5 years. I adore API testing and I've most recently been learning Cypress and JavaScript. I love a problem, puzzles and a mystery to solve. I spend a bunch of my off time playing puzzle games, boardgames or inhaling as many books as possible. 
+I'm Louise Woodhams, I've been a tester of just over 5 years. I adore API testing and I've most recently been learning Cypress and JavaScript. I love a problem, puzzles and a mystery to solve. I spend a bunch of my off time playing puzzle games, boardgames or inhaling as many books as possible.   
 You can find me lurking on Twitter: https://twitter.com/meowy24  
 Raging on my blog: https://anelaborationofcarbon.wordpress.com/  
 Or LARPing on LinkedIn :https://www.linkedin.com/in/louisemwoodhams   
