@@ -10,7 +10,7 @@ They were middle men to me. The API I was testing was primarily built to sit bet
 
 ## Context Is King 
 
-This is how I managed to test this API without really understanding what it was. As a tester context vital and if I can find a way to relate the unknown scary thing to something I've tested or 
+This is how I managed to test this API without really understanding what it was. As a tester context is vital and if I can find a way to relate the unknown scary thing to something I've tested or 
 experienced before it becomes more manageable. I am usually terrible at asking questions but for this project I asked for context and it really helped. I kept drawing on the system I already knew and 
 investigated the customer configuration that would be used with this API to build true to life testing scenarios. This actually helped me find some decent bugs and some holes in the UNIT testing and original setup.
 
