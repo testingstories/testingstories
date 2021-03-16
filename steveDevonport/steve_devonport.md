@@ -42,3 +42,10 @@ This was not how I wanted to work, I was not enjoying how the team was falling b
 As we made the big push, over the weekend, into production and our components came online...nothing worked! With all the rushing and pushing it seems we had missed several integration points across the components...Anyway it took us about a week of head scratching, rework, and long hours going through the server logs to isolate the missing items.
 
 Hero's come in many different shapes and sizes - if you're job title states Hero then that's great because you'll get all the fire-fighting activites, you'll be the first person who gets called out at 4am...however if Hero isn't in your job title then you'll be at best a hinderance and at worst destructive to a Scrum delivery team.
+
+
+Author Bio
+
+Steven Devonport is a life long student of testing and quality. He blends this learning with agile and lean principles to provide a unique contribution to many a discussion. Despite having contributed to many national sized programmes and smaller retail projects over several decades, Steven still considers himself on his journey of discovery and learning and the last few years has seen him apply himself to quality engineering and test automation engineering.
+
+Outside of work, if you call continuous learning work! Steven explores varied subjects such as Procedural Content Generation, fell walking across the UK, and online gaming.
