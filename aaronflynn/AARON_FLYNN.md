@@ -23,23 +23,23 @@ For example, my work with test automation could better sit with a "Test Engineer
 
 ## What did I do?
 
-I'd like to say I immediately excelled at the new role and did all the right things in the best way. But that's just not true. I often found myself pulled back towards my comfort zone. This meant I was not always working on the most important thing. Or doing enough of what I needed to do in this management role. I'd realise what was happening and correct myself. Sometimes doing it quickly. Other times putting myself under stress and pressure to complete priority tasks, that I hadn't focussed on enough. Not the best approach for long term success. Also, a vicious cycle.
+I'd like to say I immediately excelled at the new role and did all the right things in the best way. But that's just not true. I often found myself pulled back towards my comfort zone. This meant I was not always working on the most important thing. Or doing enough of what I needed to do in this management role. I'd realise what was happening and correct myself. Sometimes doing it quickly. Other times putting myself under stress and pressure to complete priority tasks, that I hadn't focussed on enough. A vicious cycle that wasn't the best approach for long term success.
 
-At this point I realised I wasn't consistently engaging with work at the right level. After a lot of thought the reason was obvious. I lacked confidence. In my own abilities. In my lack of experience at doing this stuff. I needed to do my job more effectively. I needed some fresh ideas.
+At this point I realised I wasn't consistently engaging with work at the right level. After a lot of thought the reason was obvious. I lacked confidence in my own abilities and experience. I needed ways to do my job more effectively. I needed some fresh ideas.
 
 ### Looking inward
 
 Reflecting on who we really are as people is hard. We all have parts of us that we don't like. These are often overlooked for self-preservation. I decided to look a bit closer at who I am, and why I think the way I do. Otherwise how could I break this cycle without some more understanding.
 
-I talked to my manager and some trusted colleagues about where to start. I looked at things like [Myers-Briggs](https://www.myersbriggs.org/) and [StrengthsFinders](https://www.gallup.com/cliftonstrengths/en/home.aspx). I found these frameworks useful. They helped me understand more about "why I do things". But also, how I might do things better.
+I talked to my manager and some trusted colleagues about where to start. I looked at things like [Myers-Briggs](https://www.myersbriggs.org/) and [StrengthsFinders](https://www.gallup.com/cliftonstrengths/en/home.aspx). I personally found these frameworks useful. They helped me understand more about "why I do things". But also, how I might do things better.
 
-Doing the quizzes or reading the books didn't "solve" my problems. It did give me some ideas and tools to get a bit better.
+Doing the quizzes or reading the books didn't "solve" my problems. It did give me some ideas and tools to get a bit better. There are plenty of alternatives you could try.
 
 ### Looking outward 
 
 In my experience, looking for new ideas is much easier than looking at yourself. I was looking for practical ideas that I could apply. Not more hard questions about me, and "why I tick".
 
-There is no shortage of great people out there sharing their ideas and experience. I consumed as much as I could to try to figure out what to do next. This included information on: testing, management, coaching, learning and, communication. If there was books or podcasts, I was trying them.
+There is no shortage of great people out there sharing their ideas and experience. I consumed as much as I could to try to figure out what to do next. This included information on: testing, management, coaching, learning, and communication. If there was books or podcasts, I was trying them.
 
 I don't have an exhaustive list of everything, but I do have some that I found helpful. The wonderful [Agile Testing books](https://agiletester.ca/), [Modern Testing principles](https://moderntesting.org/), and the [Eisenhower matrix](https://www.eisenhower.me/eisenhower-matrix/). From these I was able to; try new approaches, aim to add value, and better prioritise my work.
 
