@@ -41,7 +41,15 @@ This was not how I wanted to work, I was not enjoying how the team was falling b
 
 As we made the big push, over the weekend, into production and our components came online...nothing worked! With all the rushing and pushing it seems we had missed several integration points across the components...Anyway it took us about a week of head scratching, rework, and long hours going through the server logs to isolate the missing items.
 
-Hero's come in many different shapes and sizes - if you're job title states Hero then that's great because you'll get all the fire-fighting activites, you'll be the first person who gets called out at 4am...however if Hero isn't in your job title then you'll be at best a hinderance and at worst destructive to a Scrum delivery team.
+
+Conclusion
+
+Hero's come in many different shapes, sizes, and not all wear costumes. Being a hero on a Scrum delivery team can be destructive to the ethos of Agile and Scrum, if you find this happening on your team there are many different ways to approach this including:
+
+1. If you have the courage speak to the hero (privately) and explain how their actions could be harming the team.
+2. Raise an aspect of the anti-behaviour in a sprint retrospective, don't name names and keep your view balanced.
+3. Speak with the team manager and explain how the hero is disrupting the team spirit
+4. Speak with your Scrum Master (if you have one) about how the sprint cadence is being falsely represented
 
 
 Author Bio
