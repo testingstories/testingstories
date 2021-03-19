@@ -44,12 +44,12 @@ As we made the big push, over the weekend, into production and our components ca
 
 Conclusion
 
-Hero's come in many different shapes, sizes, and not all wear costumes. Being a hero on a Scrum delivery team can be destructive to the ethos of Agile and Scrum, if you find this happening on your team there are many different ways to approach this including:
+Hero's come in many different shapes, sizes, and not all wear costumes. Being a hero on a Scrum delivery team can be destructive to the ethos of Agile and Scrum. If you find this happening on your team there are many different ways to approach this including:
 
 1. If you have the courage speak to the hero (privately) and explain how their actions could be harming the team.
 2. Raise an aspect of the anti-behaviour in a sprint retrospective, don't name names and keep your view balanced.
-3. Speak with the team manager and explain how the hero is disrupting the team spirit
-4. Speak with your Scrum Master (if you have one) about how the sprint cadence is being falsely represented
+3. Speak with the team manager and explain how the hero is disrupting the team spirit.
+4. Speak with your Scrum Master (if you have one) about how the sprint cadence is being falsely represented.
 
 
 Author Bio
