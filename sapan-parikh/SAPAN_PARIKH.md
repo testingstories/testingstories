@@ -3,14 +3,15 @@ I have worked on projects on multiple occasions where I learned how all automate
 
 They differ from each other in at least two ways, speed of execution and risk of failure.
 
-While the [testing pyramid](https://martinfowler.com/articles/practical-test-pyramid.html) is QA 101, it's also one of the most ignored learning. One project that I worked on depended heavily on unit testing, while the other relied heavily on Selenium-based UI testing. Both approaches have their shortcomings.
+While the [test pyramid](https://martinfowler.com/articles/practical-test-pyramid.html) is QA 101, it's also one of the most ignored learning. One project that I worked on depended heavily on Unit testing, while the other relied heavily on Selenium-based UI testing. Both approaches have their shortcomings.
 
 ### Test Pyramid
-The first approach, which depended solely on unit testing of backend code, had many false positives. In this scenario, the test cases passed all the time. Yet, the software in production did not work. This false assurance could be because of a lack of Javascript tests or missed 3rd party integration errors because of the unit tests' limited scope.
+The first approach, which depended solely on unit testing of backend code, had many false positives. In this scenario, the test cases passed all the time. Yet, the software in production did not work. This false assurance could be because of a lack of JavaScript tests or missed 3rd party integration errors because of the unit tests' limited scope.
 
 The second approach had precisely the opposite issue. This approach had lots of false negatives. Here many test cases failed, but things were not broken to the extent indicated. For instance, a single bug could cause 100 broken Selenium test cases, or a few percent of test cases would always break due to timeouts or other issues not related to the code in production.
-This discussion brings us back to the testing pyramid. Any organization or project's testing strategy should include a combination of unit tests, integration tests, Selenium tests, manual tests, etc.
+This discussion brings us back to the Test Pyramid. Any organization or project's testing strategy should include a combination of unit tests, integration tests, Selenium tests, manual tests, etc.
 
+![Test Pyramid](pyramid.png "Slow Running")
 
 Image credit: https://martinfowler.com/articles/practical-test-pyramid.html
 
@@ -25,10 +26,12 @@ Frequency of failure: Using historical data, one can figure out the likelihood o
 Impact: A failing test case which does not harm much can be given a score of one. Versus, if there are scenarios that if broken, can do permanent damage to the company's image, then they should be given a score of five.
 This scoring finally should be arranged in a matrix like the following image.
 
-![Slow running](sapan-parikh/slowrunning.png "Slow Running")
+![Risk Based Testing](riskbasedtesting.png "Risk Based Testing")
 
-The product of these two measures gives you a Risk Score for each of the test cases. For example, you may decide to prioritize every test case that gets a score of 12 and higher. These test cases are the high impact, high likelihood ones that must pass even before the alpha version of a product comes out, giving the alpha version a certain basic stability while ensuring an early rollout. 
+The product of these two measures gives you a Risk Score for each of the test cases. For example, you may decide to prioritize every test case that gets a score of 12 and higher. These test cases are the high impact, high likelihood ones that must pass even before the alpha version of a product comes out, giving the alpha version a certain basic stability while ensuring an early rollout.
 
+References:
 
+[Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 
-
+[How Google Tests Software by James Whittaker, Jason Arbon, Jeff Carollo](https://www.amazon.in/Google-Tests-Software-James-Whittaker/dp/0321803027)
