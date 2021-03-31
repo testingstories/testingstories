@@ -17,3 +17,9 @@ Back to the pandemic, as of writing this chapter, there is no global vaccine rol
 So, where does one draw the line when using technology? Would you use your skills to your advantage in similar contexts? Some of the goals of automation are to reduce repetitive work and do things at scale. However, when there is an unfair advantage over people who do not have the skills to code or the budget to order a bot, this may become an ethical issue - or perhaps a forcing function to get more people into programming.
 
 At the end of the day, software is here to solve people's problems. However, we should not solve a problem by creating new ones - by making the shopping experience harder for the bots, we ended up making it harder for everyone.
+
+## Author Bio
+
+Felipe is a Senior Software Engineer in Test on the TVUI team at Netflix. He is originally from Brazil and has been living in the United States since 2013. He started his software development career in 2005 and has since applied quality and agility ideas to various projects at startups and large companies. His past projects include logistics, governmental and financial systems, mobile apps, large-scale search systems, and Bluetooth devices.
+
+You can find him on [LinkedIn](https://www.linkedin.com/in/knorrium) or [Twitter](https://twitter.com/knorrium) to talk about anything related to quality.
