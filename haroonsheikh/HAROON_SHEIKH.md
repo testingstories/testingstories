@@ -32,7 +32,7 @@ When I'm not sure about how a particular feature hangs together technically, the
 
 ## Pairing with developers
 
-One of most crucial practices of being a technical tester is the ability to pair with the developers.  This does not mean the ability to code but the ability to **read** code.  I like to pair with developers so that we're able to discuss the changes early and have a continuous 3-amigo style conversation throughout to build a more maintainable and testable solution.  I'm able to share my testing perspective to help developers think about those unhappy paths when writing unit tests.  This also encourages discussions around what tests should be covered at which layer of the automation pyramid without repeating ourselves.
+One of crucial practices of being a technical tester is the ability to pair with the developers.  This does not mean the ability to code but the ability to **read** code.  I like to pair with developers so that we're able to discuss the changes early and have a continuous 3-amigo style conversation throughout to build a more maintainable and testable solution.  I'm able to share my testing perspective to help developers think about those unhappy paths when writing unit tests.  This also encourages discussions around what tests should be covered at which layer of the automation pyramid without repeating ourselves.
 
 Throughout a feature change, I'm adding value by asking a lot of test-related questions and by answering each other, often we would find improvements that could be made to code/solution and find out about risky areas of the changes and produce better and more productive tests early.
 
