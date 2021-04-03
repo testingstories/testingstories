@@ -44,4 +44,4 @@ In summary, I would like to stress the importance of having the technical knowle
 
 Haroon Sheikh is a Computer Science graduate from University of Leeds and working proudly as a Senior Test Engineer at Sky. Haroon has a great interest in playground of various testing tools that could be used for aiding in testing workflows.  He believes in the mantra of *Test Automation isn’t a replacement but an aid to gain confidence in quality*.
 
-You can find Haroon on twitter.com/mrhsheikh, connect on linkedin.com/in/mrhsheikh and experiences at terribletester.com.
+You can find Haroon on [Twitter](https://twitter.com/mrhsheikh), connect on [LinkedIn](https://linkedin.com/in/mrhsheikh) and experiences at terribletester.com.
