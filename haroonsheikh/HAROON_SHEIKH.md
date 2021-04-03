@@ -22,7 +22,7 @@ One area that has helped in getting most amount of test coverage is an understan
 
 - It really aids in understanding the inputs and outputs of the system and can easily see where in the automation pyramid a particular test needs to reside.  I.e., Do I really need a test at UI (User Interface) layer when it can easily be covered by a more stable integration/unit test.
 - It's important to understand how we can monitor the application behaviour by looking at the logs when an unexpected occurs at each layer of the stack and helps in tracing the flow or sequence through a system.
-- Just knowing the technology can help with identifying potentially interesting variables to explore with testing.  For example, the version of a particular technology used can help with picking on any present security vulnerabilities.  If you're looking to automate testing, then this can also help in deciding what tools and languages to choose for the tests. E.g., If the front-end application is written is `react-js` then writing the integration tests in `testcafe` maybe the preferred to stay in sync with the programming language and shareability of the selectors, etc.
+- Just knowing the technology can help with identifying potentially interesting variables to explore with testing.  For example, the version of a particular technology used can help with sniffing on any present security vulnerabilities.  If you're looking to automate testing, then this can also help in deciding what tools and languages to choose for the tests. E.g., If the front-end application is written is `react-js` then writing the integration tests in `testcafe` maybe the preferred to stay in sync with the programming language and shareability of the selectors, etc.
 
 ## Knowing the dependencies
 
