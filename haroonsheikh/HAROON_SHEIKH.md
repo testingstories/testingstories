@@ -18,7 +18,7 @@ I have worked on several projects where there are no requirements documented or 
 
 ## Knowing the technology stack
 
-One area that has helped in getting most amount of test coverage is an understanding of the technology stack without knowing anything about coding.  I have This enables targeted testing of not only front-end components but also backend technologies including databases.
+One area that has helped in getting most amount of test coverage is an understanding of the technology stack without knowing anything about coding.  This enables targeted testing of not only front-end components but also backend technologies including databases.
 
 - It really aids in understanding the inputs and outputs of the system and can easily see where in the automation pyramid a particular test needs to reside.  I.e., Do I really need a test at UI (User Interface) layer when it can easily be covered by a more stable integration/unit test.
 - It's important to understand how we can monitor the application behaviour by looking at the logs when an unexpected behaviour occurs at each layer of the stack and helps in tracing the flow or sequence through a system.
